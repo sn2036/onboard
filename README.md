@@ -5,10 +5,12 @@
 
 #### Monday, Sept 8
 
-  *  09:15 AM – 10:15 AM  o  Welcome and introductions  
-  *  10:15 AM – 10:45 AM  o  Break
-  *  10:45 AM – 12:00 PM  o  Expectations for life as a grad student
-  *  12:00 PM – 01:30 PM  o  Lunch (food provided)
+  *  09:15 AM – 10:00 AM  o  Welcome and introductions  
+  *  10:00 AM – 10:15 AM  o  Goals of the ONBOARD program
+  *  10:15 AM – 11:15 AM  o  Expectations for life as a grad student
+  *  11:15 AM – 11:45 AM  o  Break
+  *  11:45 AM – 12:15 PM  o  Open discussion about AI + Science
+  *  12:15 PM – 01:30 PM  o  Lunch (food provided)
   *  01:30 PM – 02:30 PM  o  Introduction to version control
   *  02:30 PM – 03:00 PM  o  Break
   *  03:00 PM – 04:30 PM  o  Collaboration via GitHub
