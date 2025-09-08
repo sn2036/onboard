@@ -22,7 +22,7 @@
 * [Where can I find out more?](#more)
 
 ----------------------------------------------------------------------
-#### <a name="whatisgit"></a>What is Git? And GitHub?
+#### <a name="whatisgit"></a>What is Git? And Github?
 
 Git is a versioning system, like svn but better. It allows you to work offline, committing changes to a local "clone" of the repository, and then pushing them to the remote repository when you get back to wifi.
 
@@ -436,3 +436,7 @@ Note: There is a way to over-ride this error message. DO NOT USE IT. If you were
 
 
 [Back to the tippety-top.](#top)
+----------------------------------------------------------------------
+#### Extra Testing Session
+
+Testing
